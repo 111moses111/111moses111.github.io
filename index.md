@@ -38,9 +38,7 @@ My research interests include the localization of zeros of analytic functions an
 
 - *Root-finding of analytic functions and factorization*.<br>
   [CCA 2024](https://cca-net.de/cca2024/), 21st International Conference on Computability and Complexity in Analysis,
-  Swansea University, UK, July 2024.<br>
-  [Slides](https://cca-net.de/cca2024/slides/Plistiev.pdf) ·
-  [Extended abstract](https://cca-net.de/cca2024/abstracts/Plistiev.pdf)
+  Swansea University, UK, July 2024.
 
 ---
 

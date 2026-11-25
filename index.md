@@ -4,6 +4,10 @@ title: Moisej Plistiev
 
 # Moisej Plistiev
 
+moisej.plistiev [at] gmail [dot] com ·
+[GitHub](https://github.com/111moses111) ·
+[CV (PDF)](files/cv.pdf)
+
 I am a mathematician based in Vienna.
 I completed my MSc in Mathematics at the University of Vienna in 2025.
 My research interests lie in computable analysis and computational complexity, in particular the localization of zeros of analytic functions and analytic continuation,
@@ -11,15 +15,10 @@ as well as analysis of algorithms, computer algebra, computational geometry, com
 
 **I am currently applying for PhD positions.**
 
-moisej.plistiev [at] gmail [dot] com ·
-[GitHub](https://github.com/111moses111) ·
-[CV (PDF)](files/cv.pdf)
-
 ## Preprints
 
 - **On Some Connections Between Computation of Integrals of Analytic Functions, Root finding, Integer Factorization and NP-Completeness**<br>
-  Moisej Plistiev. Preprint, October 2026.<br>
-  [PDF](papers/integrals-root-finding-factorization.pdf)<br>
+  Moisej Plistiev. Preprint, October 2026. [PDF](papers/integrals-root-finding-factorization.pdf)<br>
   An integration-based method for certified localization of real zeros of analytic functions,
   applied to integer factorization and an NP-complete quadratic Diophantine decision problem.
 

@@ -21,6 +21,8 @@ as well as analysis of algorithms, computer algebra, computational geometry, com
   Moisej Plistiev. Preprint, October 2026. [PDF](papers/integrals-root-finding-factorization.pdf)<br>
   An integration-based method for certified localization of real zeros of analytic functions,
   applied to integer factorization and an NP-complete quadratic Diophantine decision problem.
+  This yields polynomial-time Turing reductions from these problems to the approximate evaluation of explicit analytic functions,
+  with the required number of accuracy bits linear in the input length.
 
 ## Software
 

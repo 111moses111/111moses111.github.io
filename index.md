@@ -6,11 +6,14 @@ title: Moisej Plistiev
 
 I am a mathematician based in Vienna.
 I completed my MSc in Mathematics at the University of Vienna in 2025.
-My research interests include the localization of zeros of analytic functions and analytic continuation.
+My research interests lie in computable analysis and computational complexity, in particular the localization of zeros of analytic functions and analytic continuation,
+as well as analysis of algorithms, computer algebra, computational geometry, computational number theory and complex systems.
 
 **I am currently applying for PhD positions.**
 
-[GitHub](https://github.com/111moses111)
+moisej.plistiev [at] gmail [dot] com ·
+[GitHub](https://github.com/111moses111) ·
+[CV (PDF)](files/cv.pdf)
 
 ## Preprints
 

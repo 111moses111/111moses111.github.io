@@ -12,6 +12,14 @@ My research interests include the localization of zeros of analytic functions an
 
 [GitHub](https://github.com/111moses111)
 
+## Preprints
+
+- **On Some Connections Between Computation of Integrals of Analytic Functions, Root finding, Integer Factorization and NP-Completeness**<br>
+  Moisej Plistiev. Preprint, October 2026.<br>
+  [PDF](papers/integrals-root-finding-factorization.pdf)<br>
+  An integration-based method for certified localization of real zeros of analytic functions,
+  applied to integer factorization and an NP-complete quadratic Diophantine decision problem.
+
 ## Software
 
 - [**MassRoots.jl**](https://github.com/111moses111/MassRoots.jl):
@@ -25,6 +33,14 @@ My research interests include the localization of zeros of analytic functions an
   MSc thesis, University of Vienna, 2025. Supervisor: Arnold Neumaier.<br>
   [PDF](https://utheses.univie.ac.at/thesis/78210) ·
   [DOI: 10.25365/thesis.79970](https://doi.org/10.25365/thesis.79970)
+
+## Talks
+
+- *Root-finding of analytic functions and factorization*.<br>
+  [CCA 2024](https://cca-net.de/cca2024/), 21st International Conference on Computability and Complexity in Analysis,
+  Swansea University, UK, July 2024.<br>
+  [Slides](https://cca-net.de/cca2024/slides/Plistiev.pdf) ·
+  [Extended abstract](https://cca-net.de/cca2024/abstracts/Plistiev.pdf)
 
 ---
 

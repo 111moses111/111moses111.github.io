@@ -24,7 +24,17 @@ as well as analysis of algorithms, computer algebra, computational geometry, com
   This yields polynomial-time Turing reductions from these problems to the approximate evaluation of explicit analytic functions,
   with the required number of accuracy bits linear in the input length.
 
-## Software
+## Projects and software
+
+- **Geometric aspects of the computational complexity of analytic functions** *(ongoing)*<br>
+  How does the geometry of the domain of analyticity, such as the location of singularities and the shape of the region,
+  affect the complexity of computing analytic functions, and how can it be used to speed up such computations?
+  A first part, *On effective distance of analytic continuation and contour integration* (in preparation),
+  studies how admissible step sizes depend on this geometry and introduces an effective distance measuring the cost of continuation along a path.
+  Next, we plan to study whether the geometry itself can be modified to achieve a desired complexity,
+  in the spirit of the reduced-cancellation method of [Gawronski, Müller and Reinhard](https://doi.org/10.1137/060669589),
+  and to implement the resulting methods in Julia.
+  Further directions include contour integration, root-finding and arbitrary-precision evaluation of special functions.
 
 - [**MassRoots.jl**](https://github.com/111moses111/MassRoots.jl):
   a Julia package implementing the integral-mass method for localizing zeros of analytic functions.

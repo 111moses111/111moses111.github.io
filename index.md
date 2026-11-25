@@ -23,7 +23,7 @@ My research interests include the localization of zeros of analytic functions an
 - ***Zur Berechnungskomplexität analytischer Funktionen und der Faktorisierung ganzer Zahlen***<br>
   (On the computational complexity of analytic functions and integer factorization).<br>
   MSc thesis, University of Vienna, 2025. Supervisor: Arnold Neumaier.<br>
-  [PDF](https://utheses.univie.ac.at/document/get/file/78210) ·
+  [PDF](https://utheses.univie.ac.at/thesis/78210) ·
   [DOI: 10.25365/thesis.79970](https://doi.org/10.25365/thesis.79970)
 
 ---
